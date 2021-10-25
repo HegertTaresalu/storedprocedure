@@ -1,0 +1,89 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+
+    
+}
+
+<body style = "padding-top:10px">
+    <div class="col-x-8-col-xs-offset-2">
+        <form id="form1" runat="server" class="form-horizontal">
+            <div class=" panel panel-primary">
+                <div class="panel-heading">
+                    <h3>Employee Search Form</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label for="inputFirstname" class="custom-control-label col-xs-2">
+                            Firstname
+                        </label>
+                        <div class="col-xs-10">
+                            <input type="text" runat="server" class="form-control"
+                                   id="inputFirstName" placeholder="FirstName" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputLastname" placeholder="Control.label col-xs-2">
+                            LastName
+                        </label>
+                        <div class="col-xs-10">
+                            <input type="text" runat="server" class="form-control"
+                                   id="inputLastname" placeholder="Lastname" />
+                        </div>
+
+
+
+                     </div>
+                        <div class="form-group">
+                            <label for="inputLastname" placeholder="Control.label col-xs-2">
+                                Gender
+                            </label>
+                            /label>
+                            <div class="col-xs-10">
+                                <input type="text" runat="server" class="form-control"
+                                       id="inputGender" placeholder="Gender" />
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="inputSalary" placeholder="Control.label col-xs-2">
+                                Salary
+                            </label>
+                            /label>
+                            <div class="col-xs-10">
+                                <input type="text" runat="server" class="form-control"
+                                       id="inputSalary" placeholder="Salary" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-10 col-x-8-col-xs-offset-2">
+                                <asp button ID="btnSearch" runat="server" text="search"
+                                     CssClass="btn btn-primary" OnClick="btnsearh-click"></asp>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel panel-primary ">
+                    <div class=" panel-heading">
+                        <h3>Search Results</h3>
+                    </div>
+                    <div class=" panel-body">
+                        <div class="panel-heading">
+                            <div class="col-xs-10">
+                                <asp gridView CssClass="table table-bordered" ID="gvSearchResults" runat = "server">
+            
+
+                                </asp>
+
+                            </div>
+                        </div>
+                     </div>
+                </div>
+           </form>
+    </div>
+</body>
+
