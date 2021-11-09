@@ -1,6 +1,5 @@
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\storedprocedure.exe
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\storedprocedure.deps.json
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\storedprocedure.runtimeconfig.json
@@ -9,7 +8,6 @@ C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcorea
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\storedprocedure.pdb
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\storedprocedure.Views.dll
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\storedprocedure.Views.pdb
-C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.csprojAssemblyReference.cache
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.AssemblyInfoInputs.cache
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.AssemblyInfo.cs
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.RazorAssemblyInfo.cache
@@ -74,3 +72,9 @@ C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcorea
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\opilane\source\repos\storedprocedure\storedprocedure\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\storedprocedure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\scopedcss\bundle\storedprocedure.styles.css
+C:\Users\opilane\source\repos\storedprocedure\storedprocedure\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
